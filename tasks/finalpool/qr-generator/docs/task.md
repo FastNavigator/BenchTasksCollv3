@@ -1,5 +1,5 @@
 # Task: qr-generator
 
 ## Description
-Complete thevaluation for qr-generator
+Complete the implementation for qr-generator
 
